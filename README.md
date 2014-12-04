@@ -29,6 +29,10 @@ This package will initially support English. In future, it may support other maj
 
 - http://blog.codinghorror.com/markov-and-you/
 
+### Language identification
+
+### Summarization
+
 ### Classifiers
 
 - Naive Bates
