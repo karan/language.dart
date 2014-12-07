@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# language.dart
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+General natural language processing utilities for Dart. It provides a simple API for getting started with natural language processing (NLP), Artificial Intelligence (AI) and Natural Language Generation (NLG) tasks.
 
 ## Commands
 
