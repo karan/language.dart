@@ -23,46 +23,46 @@ This package will initially support English. In future, it may support other maj
 ### WordPunctTokenizer
 ### TreeBank Tokenizer
 
-### String distance
+## String distance
 
-- Jaro–Winkler algorithm
-- Levenshtein algorithm
+### Jaro–Winkler algorithm
+### Levenshtein algorithm
 
-### n-grams
+## n-grams
 
-- List of successive words
+## List of successive words
 
-### Markov chain
+## Markov chain
 
-- http://blog.codinghorror.com/markov-and-you/
+### http://blog.codinghorror.com/markov-and-you/
 
-### Language identification
+## Language identification
 
-### Summarization
+## Summarization
 
-### Classifiers
+## Classifiers
 
-- Naive Bates
-- Logistic regression
+### Naive Bates
+### Logistic regression
 
-### Phonetics
+## Phonetics
 
-- SoundEx
-- Metaphone
-- DoubleMetaphone
+### SoundEx
+### Metaphone
+### DoubleMetaphone
 
-### Part-of-speech tagging (POS)
+## Part-of-speech tagging (POS)
 
-- TnT (?)
+### TnT (?)
 
-### Sentiment Analysis
+## Sentiment Analysis
 
-### TF-IDF
+## TF-IDF
 
-- term frequency–inverse document frequency
+### term frequency–inverse document frequency
 
-### Words Inflection and Lemmatization
+## Words Inflection and Lemmatization
 
-- Noun inflection
-- Number inflection
-- Present verb inflector
+### Noun inflection
+### Number inflection
+### Present verb inflector
