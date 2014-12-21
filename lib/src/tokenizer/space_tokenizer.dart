@@ -4,7 +4,7 @@ part of language.tokenizer;
 ///
 /// Example:
 ///
-///     tokenizer = new SpaceTokenizer();
+///     SpaceTokenizer tokenizer = new SpaceTokenizer();
 ///     tokenizer.tokenize('brown fox jumps');
 ///
 class SpaceTokenizer implements Tokenizer {

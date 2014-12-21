@@ -1,3 +1,3 @@
 library language;
 
-export 'src/tokenizer/tokenizer.dart';
+export 'src/tokenizer.dart';
