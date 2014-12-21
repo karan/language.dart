@@ -18,6 +18,11 @@ This package will initially support English. In future, it may support other maj
     ===> ['Stand', '', '', 'on', '', '', 'your', '', '', 'head!']
 
 #### Tab Tokenizer
+
+    TabTokenizer tokenizer = new TabTokenizer();
+    tokenizer.tokenize('brown\tfox\tjumps');
+    ===> ['brown', 'fox', 'jumps']
+
 #### Regexp Tokenizer
 #### Word Tokenizer
 #### Word-Punctuation Tokenizer
