@@ -5,16 +5,23 @@ General natural language processing utilities for Dart. It provides a simple API
 
 This package will initially support English. In future, it may support other major languages like Spanish, Russian, Chinese (maybe).
 
-## Features
 
-### Tokenization
+## Tokenization
 
-- SpaceTokenizer
-- TabTokenizer
-- RegexpTokenizer
-- WordTokenizer
-- WordPunctTokenizer
-- TreeBank Tokenizer
+### SpaceTokenizer
+
+    SpaceTokenizer tokenizer = new SpaceTokenizer();
+    tokenizer.tokenize('brown fox jumps');
+    ===> ['brown', 'fox', 'jumps']
+    
+    tokenizer.tokenize('Stand   on   your   head!');
+    ===> ['Stand', '', '', 'on', '', '', 'your', '', '', 'head!']
+
+### TabTokenizer
+### RegexpTokenizer
+### WordTokenizer
+### WordPunctTokenizer
+### TreeBank Tokenizer
 
 ### String distance
 
