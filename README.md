@@ -8,7 +8,7 @@ This package will initially support English. In future, it may support other maj
 
 ## Tokenization
 
-### SpaceTokenizer
+#### Space Tokenizer
 
     SpaceTokenizer tokenizer = new SpaceTokenizer();
     tokenizer.tokenize('brown fox jumps');
@@ -17,52 +17,49 @@ This package will initially support English. In future, it may support other maj
     tokenizer.tokenize('Stand   on   your   head!');
     ===> ['Stand', '', '', 'on', '', '', 'your', '', '', 'head!']
 
-### TabTokenizer
-### RegexpTokenizer
-### WordTokenizer
-### WordPunctTokenizer
-### TreeBank Tokenizer
+#### Tab Tokenizer
+#### Regexp Tokenizer
+#### Word Tokenizer
+#### Word-Punctuation Tokenizer
+#### Treebank Tokenizer
 
 ## String distance
 
-### Jaro–Winkler algorithm
-### Levenshtein algorithm
+#### Jaro–Winkler algorithm
+#### Levenshtein algorithm
+#### Dice's Coefficient
 
 ## n-grams
 
-## List of successive words
-
 ## Markov chain
 
-### http://blog.codinghorror.com/markov-and-you/
+http://blog.codinghorror.com/markov-and-you/
+
+## Classifiers
+
+#### Naive Bates
+#### Logistic regression
+
+## Phonetics
+
+#### SoundEx
+#### Metaphone
+#### Double Metaphone
 
 ## Language identification
 
 ## Summarization
 
-## Classifiers
-
-### Naive Bates
-### Logistic regression
-
-## Phonetics
-
-### SoundEx
-### Metaphone
-### DoubleMetaphone
-
 ## Part-of-speech tagging (POS)
 
-### TnT (?)
+#### TnT (?)
 
 ## Sentiment Analysis
 
 ## TF-IDF
 
-### term frequency–inverse document frequency
-
 ## Words Inflection and Lemmatization
 
-### Noun inflection
-### Number inflection
-### Present verb inflector
+#### Noun inflection
+#### Number inflection
+#### Present verb inflector
