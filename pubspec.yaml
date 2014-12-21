@@ -4,3 +4,5 @@ author: Karan Goel <karan@goel.io>
 description: Nothing to see here right now.
 homepage: https://github.com/karan/language.dart
 documentation: https://github.com/karan/language.dart
+dev_dependencies:
+  unittest: any
