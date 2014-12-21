@@ -6,6 +6,22 @@ General natural language processing utilities for Dart. It provides a simple API
 This package will initially support English. In future, it may support other major languages like Spanish, Russian, Chinese (maybe).
 
 
+### Features Overview
+
+- [Tokenization](#tokenization)
+- String distance
+- n-grams
+- Markov chain
+- Classifiers
+- Phonetics
+- Language identification
+- Summarization
+- Part-of-speech tagging (POS)
+- Sentiment Analysis
+- TF-IDF
+- Words Inflection and Lemmatization
+
+
 ## Tokenization
 
 #### Space Tokenizer
