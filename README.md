@@ -9,6 +9,8 @@ This package will initially support English. In future, it may support other maj
 ### Features Overview
 
 - [Tokenization](#tokenization)
+    - [Space Tokenizer](#space-tokenizer)
+    - [Tab Tokenizer](#tab-tokenizer)
 - String distance
 - n-grams
 - Markov chain
