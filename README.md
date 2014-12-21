@@ -63,3 +63,8 @@ http://blog.codinghorror.com/markov-and-you/
 #### Noun inflection
 #### Number inflection
 #### Present verb inflector
+
+## Testing
+
+    $ chmod u+x tool/run_tests.sh
+    $ ./tool/run_tests.sh
