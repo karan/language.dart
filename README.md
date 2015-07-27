@@ -1,3 +1,5 @@
+This project is now deprecated. If you would like to complete it, feel free to send PR's.
+
 language
 ===
 
